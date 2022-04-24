@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=tNVzo4E90CI
 
 Download the zip file, unzip and load into Blender
 
-To edit the motion capture in the file you need to install BlendArMocap
+To recapture the motion capture in the file you need to install BlendArMocap
