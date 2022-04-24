@@ -11,4 +11,4 @@ Setup Instructions for American Sign Language file:
 
 Download the zip file, unzip and load into Blender
 
-To edit the motion capture in the file you need to install BlendArMocap**
+To edit the motion capture in the file you need to install BlendArMocap
