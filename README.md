@@ -7,5 +7,8 @@ These are files I created with available software programs.
 
 Click on the .zip file to download to your computer.
 
-**Setup Instructions
-Blender has to be started with elevated permissions in order to install the required packages**
+Setup Instructions for American Sign Language file
+
+Download the zip file, unzip and load into Blender
+
+To edit the motion capture in the file you need to install BlendArMocap**
