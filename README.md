@@ -11,7 +11,7 @@ Click on the .zip file to download to your computer.
 https://www.youtube.com/watch?v=tNVzo4E90CI
 
 
-# Setup Instructions for American Sign Language file:
+## Setup Instructions for American Sign Language file:
 
 Download the zip file, unzip and load into Blender
 
