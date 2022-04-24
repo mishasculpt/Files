@@ -8,7 +8,7 @@ These are files I created with available software programs.
 Click on the .zip file to download to your computer.
 ___________________________________________________________________________
 
-www.youtube.com/watch?feature=player_embedded&v=tNVzo4E90CI
+(www.youtube.com/watch?feature=player_embedded&v=tNVzo4E90CI)
 
 
 ### Setup Instructions for American Sign Language file:
