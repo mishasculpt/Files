@@ -15,4 +15,4 @@ ___________________________________________________________________________
 
 Download the zip file, unzip and load into Blender
 
-To recapture the motion capture in the file you need to install BlendArMocap
+To recapture the motion capture in the file you need to install BlendArMocap...https://cgtinker.gumroad.com/l/rotom
